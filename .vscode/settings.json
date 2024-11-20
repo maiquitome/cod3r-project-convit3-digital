@@ -1,5 +1,14 @@
 {
-  "cSpell.words": ["CONVIT", "descricao", "qtde"],
+  "cSpell.words": [
+    "avancado",
+    "Bootcamp",
+    "CONVIT",
+    "descricao",
+    "inauguracao",
+    "joao",
+    "qtde",
+    "reuniao"
+  ],
   "code-runner.executorMap": {
     "typescript": "npx tsx"
   }
