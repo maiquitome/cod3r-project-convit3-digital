@@ -35,9 +35,9 @@ export default function PaginaAdminEvento(props: any) {
       {evento ? (
         <DashboardEvento
           evento={evento}
-          // presentes={presentes}
-          // ausentes={ausentes}
-          // totalGeral={totalGeral}
+          presentes={presentes}
+          ausentes={ausentes}
+          totalGeral={totalGeral}
         />
       ) : (
         <FormSenhaEvento />
