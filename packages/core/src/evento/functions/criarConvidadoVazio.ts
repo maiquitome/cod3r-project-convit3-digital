@@ -1,5 +1,5 @@
-import { Id } from "@/src/core/shared";
-import Convidado from "../models/Convidado";
+import { Id } from "../../shared";
+import Convidado from "../model/Convidado";
 
 export default function criarConvidadoVazio(): Partial<Convidado> {
   return {

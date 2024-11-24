@@ -1,4 +1,4 @@
-import Convidado from "../models/Convidado";
+import Convidado from "../model/Convidado";
 import validarConvidado from "./validarConvidado";
 
 export default function complementarConvidado(

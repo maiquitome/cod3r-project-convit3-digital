@@ -1,4 +1,4 @@
-import Convidado from "../models/Convidado";
+import Convidado from "../model/Convidado";
 
 export default function validarConvidado(
   convidado: Partial<Convidado>

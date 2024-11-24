@@ -1,5 +1,5 @@
-import { Id, Senha } from "@/src/core/shared";
-import Evento from "../models/Evento";
+import { Id, Senha } from "../../shared";
+import Evento from "../model/Evento";
 import validarEvento from "./validarEvento";
 
 export default function complementarEvento(

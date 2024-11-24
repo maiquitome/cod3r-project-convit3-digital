@@ -1,4 +1,4 @@
-import { Convidado } from "@/src/core";
+import { Convidado } from "core";
 
 export interface ConvidadoItemProps {
   convidado: Convidado;
